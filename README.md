@@ -1,7 +1,7 @@
 <H3>Name : kabilan T  </H3>
 <H3>Register No : 212222230059</H3>
 <H3>Experiment 2</H3>
-<H3>Date</H3>
+<H3>Date12-08-2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
